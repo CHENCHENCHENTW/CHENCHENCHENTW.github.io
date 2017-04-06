@@ -27,3 +27,16 @@ a.sitetitle {
     height: 60px;
     background:green;
 }
+
+Menu ul {
+    float: right;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+Menu li {
+    position: relative;
+    float: left;
+    display: block;
+}
