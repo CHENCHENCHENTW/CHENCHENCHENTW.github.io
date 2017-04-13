@@ -9,6 +9,10 @@ body {
     font-family: sans-serif;
     line-height: 20px;
 }
+
+header {
+    background: url(/images/000.png) repeat-x;
+}
 	
 #myHeader {
 	width: 1020px;
