@@ -2,6 +2,13 @@
 This is CSS file
 */
 
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #ededed;
+    font-family: sans-serif;
+    line-height: 20px;
+}
 #myHeader {
 	width: 1000px;
 	height: 130px;
