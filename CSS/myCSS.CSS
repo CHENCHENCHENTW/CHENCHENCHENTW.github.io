@@ -10,9 +10,9 @@ body {
     line-height: 20px;
 }
 
-/*header {
-    background: url(/images/001.png) repeat-x;
-}*/
+header {
+    background: url(/images/tt1.png) repeat-x;
+}
 	
 #myHeader {
 	width: 970px;
