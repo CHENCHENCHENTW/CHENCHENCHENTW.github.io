@@ -84,3 +84,21 @@ a.sitetitle {
 .h30 {height: 30px;}
 
 .clear {clear: both;}
+
+footer {
+    clear: both;
+    background: #fff;
+    width: 100%;
+}
+
+#myFooter {
+    width: 980px;
+    margin: 0 auto;
+    padding: 40px 10px;
+}
+
+.cl {
+    width: 180px;
+    float: left;
+    margin: 0 30px;
+}
