@@ -32,3 +32,4 @@ footer {
     position: fixed;
     animation: AnimateDiv 30s infinite;
 }
+@keyframes AnimateDiv{
