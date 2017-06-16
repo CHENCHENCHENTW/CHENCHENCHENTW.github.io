@@ -41,12 +41,13 @@ footer {
     40% {transform: skewY(50deg);left:300px;}
     45% {transform: rotate(100deg);left:500px;}
     50% {transform: rotate(1000deg);left:400px;background: rgba(236, 140, 175, 0.49);}
-    55% {transform: translate(100px,250px);left:600px;}
-    60% {transform: scale(10, 20);left:500px;} 
-    70% {transform: rotate(-360deg);left:700px;}
-    80% {transform: translate(-30px,-40px);left:600px;}
-    90% {transform: translate(66px,20px);left:800px;}
-    100% {transform: translate(-30px,-40px);left:0px;background: rgba(189, 50, 50, 0.46);}
+    55% {transform: translate(100px,250px);right:500px;}
+    60% {transform: scale(10, 20);right:300px;} 
+    70% {transform: rotate(-360deg);right:400px;}
+    80% {transform: translate(-30px,-40px);right:200px;}
+    90% {transform: translate(66px,20px);right:300px;}
+    95% {transform: scale(2, 3);;right:100px;}
+    100% {transform: translate(-30px,-40px);right:0px;background: rgba(189, 50, 50, 0.46);}
     }
     
     
