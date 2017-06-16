@@ -20,15 +20,15 @@ footer {
 }
 
 #animateDiv {
-    width: 40px;
+    width: 50px;
     background: pink;
     color: yellow;
-    font-size: 20px;
+    font-size: 26px;
     font-weight: bolder;
-    padding: 10px;
+    padding: 20px;
     float: left;
     margin: 20px 0px;
-    border-radius: 8px;
-    position: relative;
-    animation: myAnimateDiv 11s infinite;
+    border-radius: 70px;
+    position: fixed;
+    animation: myAnimateDiv 30s infinite;
 }
