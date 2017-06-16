@@ -30,5 +30,5 @@ footer {
     margin: 20px 0px;
     border-radius: 70px;
     position: fixed;
-    animation: myAnimateDiv 30s infinite;
+    animation: AnimateDiv 30s infinite;
 }
